@@ -1,5 +1,7 @@
 === Simple GEO LLMS Generator ===
 Contributors: SatoMini
+Author: SatoMini
+Author URI: https://warpnav.com/
 Tags: llms, seo, geo, ai-crawler, generator
 Requires at least: 6.0
 Tested up to: 6.7
