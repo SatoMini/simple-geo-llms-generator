@@ -1,0 +1,391 @@
+# Copyright (C) 2026 SatoMini
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple GEO LLMS Generator 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-30 12:00+0000\n"
+"PO-Revision-Date: 2026-03-30 12:00+0000\n"
+"Last-Translator: SatoMini\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: simple-geo-llms-generator.php:52
+msgid "我的网站"
+msgstr "My Website"
+
+#: simple-geo-llms-generator.php:53
+msgid "网站内容索引与导航"
+msgstr "Website Content Index & Navigation"
+
+#: simple-geo-llms-generator.php:212
+msgid "首页"
+msgstr "Home"
+
+#: simple-geo-llms-generator.php:212
+msgid "网站入口与导航"
+msgstr "Site entry and navigation"
+
+#: simple-geo-llms-generator.php:239
+msgid "｜LLMS 内容索引"
+msgstr " | LLMS Content Index"
+
+#: simple-geo-llms-generator.php:239
+msgid "｜LLMS 扩展索引"
+msgstr " | LLMS Extended Index"
+
+#: simple-geo-llms-generator.php:246
+msgid "核心页面"
+msgstr "Core Pages"
+
+#: simple-geo-llms-generator.php:255
+msgid "内容"
+msgstr "Content"
+
+#: simple-geo-llms-generator.php:259
+msgid "目录"
+msgstr "Archive"
+
+#: simple-geo-llms-generator.php:260
+msgid "最新"
+msgstr "Latest"
+
+#: simple-geo-llms-generator.php:265
+msgid "未分类"
+msgstr "Uncategorized"
+
+#: simple-geo-llms-generator.php:268
+msgid "篇"
+msgstr " articles"
+
+#: simple-geo-llms-generator.php:286
+msgid "网站信息"
+msgstr "Site Information"
+
+#: simple-geo-llms-generator.php:287
+msgid "地址:"
+msgstr "URL:"
+
+#: simple-geo-llms-generator.php:288
+msgid "语言:"
+msgstr "Language:"
+
+#: simple-geo-llms-generator.php:289
+msgid "robots："
+msgstr "robots: "
+
+#: simple-geo-llms-generator.php:290
+msgid "网站地图："
+msgstr "Sitemap: "
+
+#: simple-geo-llms-generator.php:291
+msgid "更新:"
+msgstr "Updated:"
+
+#: simple-geo-llms-generator.php:305
+msgid "内容摘要待补充。"
+msgstr "Description pending."
+
+#: simple-geo-llms-generator.php:398
+msgid "无法连接"
+msgstr "Cannot connect"
+
+#: simple-geo-llms-generator.php:399
+msgid "检查服务器配置"
+msgstr "Check server configuration"
+
+#: simple-geo-llms-generator.php:402
+msgid "文件为空"
+msgstr "File is empty"
+
+#: simple-geo-llms-generator.php:402
+msgid "正常响应"
+msgstr "Normal response"
+
+#: simple-geo-llms-generator.php:403
+#, php-format
+msgid "生成内容到 %s"
+msgstr "Generate content to %s"
+
+#: simple-geo-llms-generator.php:403
+msgid "无需操作"
+msgstr "No action needed"
+
+#: simple-geo-llms-generator.php:406
+msgid "文件不存在"
+msgstr "File not found"
+
+#: simple-geo-llms-generator.php:407
+msgid "点击\"立即重建 LLMS 文件\""
+msgstr "Click \"Regenerate LLMS Files\""
+
+#: simple-geo-llms-generator.php:407
+msgid "检查固定链接设置"
+msgstr "Check permalink settings"
+
+#: simple-geo-llms-generator.php:411
+msgid "检查服务器配置"
+msgstr "Check server configuration"
+
+#: simple-geo-llms-generator.php:431
+msgid "首页 H1"
+msgstr "Homepage H1"
+
+#: simple-geo-llms-generator.php:431
+msgid "H1 为空"
+msgstr "H1 is empty"
+
+#: simple-geo-llms-generator.php:431
+msgid "无需操作"
+msgstr "No action needed"
+
+#: simple-geo-llms-generator.php:431
+msgid "为首页添加 H1"
+msgstr "Add H1 to homepage"
+
+#: simple-geo-llms-generator.php:433
+msgid "首页 H1"
+msgstr "Homepage H1"
+
+#: simple-geo-llms-generator.php:433
+msgid "未找到 H1"
+msgstr "H1 not found"
+
+#: simple-geo-llms-generator.php:433
+msgid "添加 H1 标签"
+msgstr "Add H1 tag"
+
+#: simple-geo-llms-generator.php:438
+msgid "已声明 llms link"
+msgstr "LLMS link declared"
+
+#: simple-geo-llms-generator.php:438
+msgid "未找到 llms link"
+msgstr "LLMS link not found"
+
+#: simple-geo-llms-generator.php:438
+msgid "确保输出 <link rel=\"llms\" href=\"/llms.txt\">"
+msgstr "Ensure output of <link rel=\"llms\" href=\"/llms.txt\">"
+
+#: simple-geo-llms-generator.php:443
+msgid "已设置"
+msgstr "Configured"
+
+#: simple-geo-llms-generator.php:443
+msgid "无需操作"
+msgstr "No action needed"
+
+#: simple-geo-llms-generator.php:445
+msgid "未找到"
+msgstr "Not found"
+
+#: simple-geo-llms-generator.php:445
+msgid "添加 canonical 标签"
+msgstr "Add canonical tag"
+
+#: simple-geo-llms-generator.php:453
+msgid "OG 标签完整"
+msgstr "OG tags complete"
+
+#: simple-geo-llms-generator.php:453
+msgid "缺失 OG 标签"
+msgstr "Missing OG tags"
+
+#: simple-geo-llms-generator.php:453
+msgid "无需操作"
+msgstr "No action needed"
+
+#: simple-geo-llms-generator.php:453
+msgid "安装 SEO 插件或手动添加"
+msgstr "Install SEO plugin or add manually"
+
+#: simple-geo-llms-generator.php:505
+msgid "状态"
+msgstr "Status"
+
+#: simple-geo-llms-generator.php:508
+msgid "LLMS 重建"
+msgstr "LLMS Rebuild"
+
+#: simple-geo-llms-generator.php:509
+msgid "未执行"
+msgstr "Not executed"
+
+#: simple-geo-llms-generator.php:510
+msgid "成功"
+msgstr "Success"
+
+#: simple-geo-llms-generator.php:510
+msgid "未成功"
+msgstr "Not successful"
+
+#: simple-geo-llms-generator.php:513
+msgid "最近扫描"
+msgstr "Last Scan"
+
+#: simple-geo-llms-generator.php:514
+msgid "未执行"
+msgstr "Not executed"
+
+#: simple-geo-llms-generator.php:520
+msgid "网站地址"
+msgstr "Site URL"
+
+#: simple-geo-llms-generator.php:522
+msgid "需要根目录写权限"
+msgstr "Requires root directory write permission"
+
+#: simple-geo-llms-generator.php:529
+msgid "同时生成 llms-full.txt"
+msgstr "Also generate llms-full.txt"
+
+#: simple-geo-llms-generator.php:530
+msgid "重建 LLMS 文件"
+msgstr "Regenerate LLMS Files"
+
+#: simple-geo-llms-generator.php:535
+msgid "运行扫描"
+msgstr "Run Scan"
+
+#: simple-geo-llms-generator.php:542
+msgid "扫描结果"
+msgstr "Scan Results"
+
+#: simple-geo-llms-generator.php:544
+msgid "检查项"
+msgstr "Check Item"
+
+#: simple-geo-llms-generator.php:544
+msgid "URL"
+msgstr "URL"
+
+#: simple-geo-llms-generator.php:544
+msgid "状态"
+msgstr "Status"
+
+#: simple-geo-llms-generator.php:544
+msgid "结果"
+msgstr "Result"
+
+#: simple-geo-llms-generator.php:544
+msgid "建议"
+msgstr "Suggestion"
+
+#: simple-geo-llms-generator.php:571
+msgid "建议"
+msgstr "Suggestions"
+
+#: simple-geo-llms-generator.php:581
+msgid "设置"
+msgstr "Settings"
+
+#: simple-geo-llms-generator.php:586
+msgid "LLMS输出内容类型"
+msgstr "LLMS Output Content Types"
+
+#: simple-geo-llms-generator.php:596
+msgid "输出"
+msgstr "Output"
+
+#: simple-geo-llms-generator.php:599
+msgid "卸载时清理数据"
+msgstr "Clean up data on uninstall"
+
+#: simple-geo-llms-generator.php:601
+msgid "保存设置"
+msgstr "Save Settings"
+
+#: simple-geo-llms-generator.php:606
+msgid "使用说明"
+msgstr "Usage Instructions"
+
+#: simple-geo-llms-generator.php:607
+msgid "文件输出数量限制（默认）："
+msgstr "File Output Limits (Default):"
+
+#: simple-geo-llms-generator.php:609
+msgid "文件"
+msgstr "File"
+
+#: simple-geo-llms-generator.php:609
+msgid "每个内容类型文章数"
+msgstr "Articles per Content Type"
+
+#: simple-geo-llms-generator.php:609
+msgid "目录数"
+msgstr "Category Count"
+
+#: simple-geo-llms-generator.php:609
+msgid "页面数"
+msgstr "Page Count"
+
+#: simple-geo-llms-generator.php:611
+msgid "篇"
+msgstr ""
+
+#: simple-geo-llms-generator.php:611
+msgid "个"
+msgstr ""
+
+#: simple-geo-llms-generator.php:612
+msgid "篇"
+msgstr ""
+
+#: simple-geo-llms-generator.php:612
+msgid "个"
+msgstr ""
+
+#: simple-geo-llms-generator.php:615
+msgid "自定义修改："
+msgstr "Customization:"
+
+#: simple-geo-llms-generator.php:616
+#, php-format
+msgid "如需修改默认限制，请编辑插件文件 %s，在 %s 方法中查找「自定义修改区域」，修改以下变量值："
+msgstr "To modify default limits, edit the plugin file %s and find the \"Customization Zone\" in the %s method, then modify the following variable values:"
+
+#: simple-geo-llms-generator.php:618
+#, php-format
+msgid "llms.txt 每类型文章数（默认 %d）"
+msgstr "llms.txt articles per type (default %d)"
+
+#: simple-geo-llms-generator.php:619
+#, php-format
+msgid "llms-full.txt 每类型文章数（默认 %d）"
+msgstr "llms-full.txt articles per type (default %d)"
+
+#: simple-geo-llms-generator.php:620
+#, php-format
+msgid "llms.txt 页面数（默认 %d）"
+msgstr "llms.txt page count (default %d)"
+
+#: simple-geo-llms-generator.php:621
+#, php-format
+msgid "llms-full.txt 页面数（默认 %d）"
+msgstr "llms-full.txt page count (default %d)"
+
+#: simple-geo-llms-generator.php:622
+#, php-format
+msgid "llms.txt 目录数（默认 %d）"
+msgstr "llms.txt category count (default %d)"
+
+#: simple-geo-llms-generator.php:623
+#, php-format
+msgid "llms-full.txt 目录数（默认 %d）"
+msgstr "llms-full.txt category count (default %d)"
+
+#: simple-geo-llms-generator.php:632
+msgid "Permission denied"
+msgstr "Permission denied"
+
+#: simple-geo-llms-generator.php:642
+msgid "Permission denied"
+msgstr "Permission denied"
+
+#: simple-geo-llms-generator.php:652
+msgid "Permission denied"
+msgstr "Permission denied"
